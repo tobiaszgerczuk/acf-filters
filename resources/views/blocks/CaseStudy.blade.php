@@ -5,8 +5,7 @@
   Icon: admin-comments
   Keywords: testimonial quote
   PostTypes: page post
-  EnqueueStyle: styles/style.css
-  EnqueueScript: scripts/script.js
+EnqueueStyle: styles/main.css
 
 --}}
 
